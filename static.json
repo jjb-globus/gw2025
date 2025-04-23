@@ -8,7 +8,7 @@
     "version": "1.0.0",
     "attributes": {
       "content": {
-        "title": "Modern Research Data Portal",
+        "title": "GW2025",
         "privacy_policy": "This is an example privacy policy – you should replace this with your own policy.",
         "terms_of_service": "This is an example terms of service – you should replace this with your own terms."
       },
@@ -17,8 +17,7 @@
           "client_id": "7210bf7e-f91c-44e2-88b7-ffa25dfad542"
       },
         "transfer": {
-          "collection_id": "a6f165fa-aee2-4fe5-95f3-97429c28bf82",
-          "path": "/portal/catalog/"
+          "collection_id": "31ce9ba0-176d-45a5-add3-f37d233ba47d"
         }
       }
     }
